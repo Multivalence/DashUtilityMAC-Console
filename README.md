@@ -1,0 +1,1 @@
+# MacOS_bulk_badwords
