@@ -1,1 +1,11 @@
-# MacOS_bulk_badwords
+# mee6_bulk_badwords (MacOS)
+Adds and Removes bad words in Bulk. Designed only for Mee6.
+
+# Dependencies
+- python3.7
+- selenium
+- time
+
+# Downloads Required
+Download chromedriver based on your chrome version!
+https://sites.google.com/a/chromium.org/chromedriver/downloads
