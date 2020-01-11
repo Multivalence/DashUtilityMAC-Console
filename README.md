@@ -1,4 +1,4 @@
-# mee6_bulk_badwords (MacOS)
+# Mee6 Dashboard Utility (MacOS)
 Adds and Removes bad words in Bulk. Designed only for Mee6.
 
 # Dependencies
