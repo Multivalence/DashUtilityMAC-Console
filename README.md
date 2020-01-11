@@ -11,7 +11,7 @@ Download chromedriver based on your chrome version!
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 # Other Versions
-- Windows : https://github.com/Multivalence/mee6_bulk_badwords
+- Windows : https://github.com/Multivalence/Mee6_dashutility-Windows/
 - Linux : Coming Soon
 
 # Planned Updates
