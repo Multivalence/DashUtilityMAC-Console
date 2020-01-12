@@ -52,7 +52,6 @@ while True:
                     time.sleep(0.1)
 
             except StaleElementReferenceException:
-                print('StaleElementReferenceException while trying to click element. trying to find element again.')
                 xmarks = browser.find_elements_by_class_name('TagCross')
 
 
