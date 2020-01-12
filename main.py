@@ -19,7 +19,7 @@ while True:
     Go to the moderator plugin and select the input bar for bad words. 
     A cursor should show. After that is done,
     - If you wish to remove in bulk, press "r" then enter.
-    - If you wish to add in bulk, press "a" then enter
+    - If you wish to add pre-written words in bulk, press "a" then enter
     - If you wish to exit the program, press "e" then enter : ''')
 
     # ADDING ALL BAD WORDS
