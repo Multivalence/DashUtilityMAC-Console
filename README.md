@@ -1,3 +1,5 @@
+**DEPRECATED! FOR SUPPORT GO HERE** -> https://discord.gg/gpZMQ53
+
 # Mee6 Dashboard Utility (MacOS)
 Adds (pre-written words) and Removes bad words in Bulk. Designed only for Mee6.
 
